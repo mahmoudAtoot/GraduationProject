@@ -39,11 +39,7 @@ This project introduces a smart container system designed to collect waste effic
 - Integrate with city-wide waste management platforms.
 
 ## 📸 Screenshots / Media
-> *(You can include images or videos of the prototype or container in action here)*
-
-## 📄 License
-
-This project is under the MIT License. See the [LICENSE](LICENSE) file for more details.
+![Prototype](https://github.com/user-attachments/assets/14655116-af67-460d-8e49-e879e72c8826)
 
 ---
 
